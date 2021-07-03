@@ -1,0 +1,49 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1b81)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   23.21.13.9065
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\Unity Projects\1 - Built Games\Block Breaker\Game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\Unity Projects\1 - Built Games\Block Breaker\Game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\Unity Projects\1 - Built Games\Block Breaker\Game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\Unity Projects\1 - Built Games\Block Breaker\Game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\Unity Projects\1 - Built Games\Block Breaker\Game_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading F:\Unity Projects\1 - Built Games\Block Breaker\Game_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: F:\Unity Projects\1 - Built Games\Block Breaker\Game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\Unity Projects\1 - Built Games\Block Breaker\Game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: F:\Unity Projects\1 - Built Games\Block Breaker\Game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\Unity Projects\1 - Built Games\Block Breaker\Game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.144 seconds
+Platform assembly: F:\Unity Projects\1 - Built Games\Block Breaker\Game_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: F:\Unity Projects\1 - Built Games\Block Breaker\Game_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.685671 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.943430 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 452.
+Total: 0.350095 ms (FindLiveObjects: 0.035266 ms CreateObjectMapping: 0.036548 ms MarkObjects: 0.255518 ms  DeleteObjects: 0.021159 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.735778 ms
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 260.
+Total: 0.425116 ms (FindLiveObjects: 0.020197 ms CreateObjectMapping: 0.033663 ms MarkObjects: 0.271548 ms  DeleteObjects: 0.098424 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.475450 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 264.
+Total: 0.192039 ms (FindLiveObjects: 0.013785 ms CreateObjectMapping: 0.014106 ms MarkObjects: 0.159979 ms  DeleteObjects: 0.003526 ms)
+
+Setting up 3 worker threads for Enlighten.
+  Thread -> id: 4938 -> priority: 1 
+  Thread -> id: 5cc -> priority: 1 
+  Thread -> id: 40e0 -> priority: 1 
